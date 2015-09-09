@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 #creator: Shay Avrahami
+#This program finds the steam of every English word
 
 import re # regex
 from HTMLParser import HTMLParser
